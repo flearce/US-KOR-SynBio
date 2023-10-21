@@ -28,7 +28,7 @@ description:           >
   Webpage for SynBio conference schedule.
 
 # A shorter description for the sidebar.
-tagline:               2nd Nov. – 3rd Nov. 2023 [United States]
+tagline:               2nd Nov. – 3rd Nov. 2023\n[United States]
 
 # A list of keywords for your blog
 keywords:              ["Synthetic Biology"]
@@ -93,7 +93,8 @@ accent_color:          rgb(79,177,186)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+# theme_color:           rgb(25,55,71)
+theme_color:           rgb(74,133,212)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
