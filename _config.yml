@@ -28,7 +28,7 @@ description:           >
   Webpage for SynBio conference schedule.
 
 # A shorter description for the sidebar.
-tagline:               2nd Nov. – 3rd Nov. 2023\n[United States]
+tagline:               LVNL [2nd Nov. – 3rd Nov, 2023]
 
 # A list of keywords for your blog
 keywords:              ["Synthetic Biology"]
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Schedule
+    url:               /schedule/
+  - title:             Speakers
+    url:               /speakers/
   - title:             About
     url:               /about/
 
