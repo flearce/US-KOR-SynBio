@@ -25,14 +25,13 @@ title:                 US - Korea Synthetic Biology Conference Schedule
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Webpage for SynBio conference schedule.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Hello, How are you, How's things~~
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              ["Synthetic Biology"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -67,7 +66,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2023. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
