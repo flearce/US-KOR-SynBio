@@ -43,13 +43,13 @@ author:
   # Used by `jekyll-feed`:
   name:                Hyun Gi Koh
   email:               hyungi@illinois.edu
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             Schedule
     url:               /schedule/
+  - title:             Example
+    url:               /example/
   - title:             Speakers
     url:               /speakers/
   - title:             About
@@ -347,10 +347,6 @@ plugins:
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
-
-# Used for twitter cards
-# twitter:
-#   username:            <username>
 
 # Used for facebook open graph
 # facebook:
